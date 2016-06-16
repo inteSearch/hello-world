@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi
+
+Today I am going to set up my first git-hub
